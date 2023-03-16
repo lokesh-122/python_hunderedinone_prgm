@@ -1,5 +1,5 @@
 print("Welcome to view point")
-print("Press any alphabet to print the programs list")
+print("Press 0 to print the programs list")
 n=eval(input("Enter the number for perfroming the specific program"))
 if n==1:
   print("")
