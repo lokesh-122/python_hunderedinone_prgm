@@ -2,201 +2,201 @@ print("Welcome to view point")
 print("Press 0 to print the programs list")
 n=eval(input("Enter the number for perfroming the specific program"))
 if n==1:
-  print("")
+  print("Wine Quality Prediction")
 elif n==2:
-  print("")
+  print("Credit Card Fraud Detection")
 elif n==3:
-  print("")
+  print("Disease Predtiction using Machine Learning")
 elif n==4:
-  print("")
+  print("Recommendation System in Python")
 elif n==5:
-  print("")
+  print("Heart Disease Prediction Using Logistic Regression")
 elif n==6:
-  print("")
+  print("Prediction of Wine type using Deep learning")
 elif n==7:
-  print("")
+  print("IPL score Prediction")
 elif n==8:
-  print("")
+  print("Dogecoin Price Prediction with Machine Learning")
 elif n==9:
-  print("")
+  print("Detecting Spam Emails Using Tensorflow in Python")
 elif n==10:
-  print("")
+  print("SMS Spam detection using Tensorflow in Python")
 elif n==11:
-  print("")
+  print("Credit Card Fraud Detection")
 elif n==12:
-  print("")
+  print("Classify Handwritten Digits with Tensorflow")
 elif n==13:
-  print("")
+  print("OCR of Handwritten digits")
 elif n==14:
-  print("")
+  print("Recognizing Handwritten Digits in Scikit Learn")
 elif n==15:
-  print("")
+  print("Identifying handwritten Digits using Logistic Regression in PyTorch")
 elif n==16:
-  print("")
+  print("Cartooning an Image using OpenCV")
 elif n==17:
-  print("")
+  print("Count number of object using Python")
 elif n==18:
-  print("")
+  print("Count number of Face using Python")
 elif n==19:
-  print("")
+  print("Text Detection and Extraction using OpenCV and OCR")
 elif n==20:
-  print("")
+  print("Zillow Home Value Prediction")
 elif n==21:
-  print("")
+  print("Sales Forecast Prediction")
 elif n==22:
-  print("")
+  print("Customer Churn Analysis Prediction")
 elif n==23:
-  print("")
+  print("Calories Burnt Prediction using")
 elif n==24:
-  print("")
+  print("Vehicle Count Prediction from Sensor Data")
 elif n==25:
-  print("")
+  print("Analyzing selling price of used cars using Python")
 elif n==26:
-  print("")
+  print("Box office Revenue Prediction Using Linear Regression")
 elif n==27:
-  print("")
+  print("Online Payment Fraud Detection using Machine Learning in Python")
 elif n==28:
-  print("")
+  print("Customer Segmentation using Unsupervised Machine Learning")
 elif n==29:
-  print("")
+  print("Bitcoin price Prediction using Machine Learning")
 elif n==30:
-  print("")
+  print("Flipkart Reviews Sentiment Analysis using Python")
 elif n==31:
-  print("")
+  print("Loan Approval Prediction using Machine Learning")
 elif n==32:
-  print("")
+  print("Loan Eligibility prediction using Machine Learning Models")
 elif n==33:
-  print("")
+  print("House Price Prediction using ML")
 elif n==34:
-  print("")
+  print("Boston Housing Kaggle challenge with Linear Regression")
 elif n==35:
-  print("")
+  print("Stock Price Prediction using ML in Python")
 elif n==36:
-  print("")
+  print("Stock Price Prediction using Tensorflow")
 elif n==38:
-  print("")
+  print("Human Scream Detection and Analysis for controlling Crime Rate ")
 elif n==39:
-  print("")
+  print("Medical Insurance Price prediction using Machine Learning")
 elif n==40:
-  print("")
+  print("Parkinson's Disease Prediction using ML")
 elif n==41:
-  print("")
+  print("Spaceship Titanic Price Prediction using ML in python")
 elif n==42:
-  print("")
+  print("Inventory Demand Forecasting using ML in Python")
 elif n==43:
-  print("")
+  print("Ola Bike Ride Request Forecast suing ML")
 elif n==44:
-  print("")
+  print("Rainfall Prediction using ML")
 elif n==45:
-  print("")
+  print("Waiter's Tip Prediction using ML")
 elif n==46:
-  print("")
+  print("Austin Prediction using ML")
 elif n==47:
-  print("")
+  print("Bitcoin Price Prediction using Machine Learning in python")
 elif n==48:
-  print("")
+  print("Predicting Stock Price Direction using Support vector Machines")
 elif n==49:
-  print("")
+  print("Fake News Detection using ML")
 elif n==50:
-  print("")
+  print("Fake news Detection Model using Tensorflow in Python")
 elif n==51:
-  print("")
+  print("Predict Fuel Efficiency Using Tensorflow in Python")
 elif n==52:
-  print("")
+  print("Microsoft Stock Price Prediction with ML")
 elif n==53:
-  print("")
+  print("Titter Sentiment Analysis")
 elif n==54:
-  print("")
+  print("Facebook Sentiment Analysis")
 elif n==55:
-  print("")
+  print("CIFAR-10 Image Classification in Tensorflow")
 elif n==56:
-  print("")
+  print("Black and White Image colorization with OpenCV and Deep Learning")
 elif n==57:
-  print("")
+  print("Kaggle Breat Cancer Wiconsin Diagnosis using Logistic Regression")
 elif n==58:
-  print("")
+  print("Cancer cell Classification using Scikit-learn")
 elif n==59:
-  print("")
+  print("Kaggle Breat Cancer Wiconsin Diagnosis using KNN and Cross-Validation")
 elif n==60:
-  print("")
+  print("Share Price Forecasting Using Facebook")
 elif n==61:
-  print("")
+  print("Multiclass image classification using Transfer Learning")
 elif n==62:
-  print("")
+  print("Ted Talks Recommendation System with ML")
 elif n==63:
-  print("")
+  print("Implementation of Movie Recommender System")
 elif n==64:
-  print("")
+  print("Movie recommendation based on emotion in python")
 elif n==65:
-  print("")
+  print("Image Caption Generator using Deep Learning on Flickr8K dataset")
 elif n==66:
-  print("")
+  print("Music Recommendation System Using Machine Learning")
 elif n==67:
-  print("")
+  print("Speech Recognition in Python using Google Speech API")
 elif n==68:
-  print("")
+  print("Voice Assistant using python")
 elif n==69:
-  print("")
+  print("Intrusion Detection system using ML algorithm")
 elif n==70:
-  print("")
+  print("Face Mask Detection using Tensorflow in python")
 elif n==71:
-  print("")
+  print("Dog Breed Classification using Transfer Learning")
 elif n==72:
-  print("")
+  print("Flower Recognition Using Convolutional Neural Network in python")
 elif n==73:
-  print("")
+  print("Emojify using Face Recognition")
 elif n==74:
-  print("")
+  print("Catand Dog Classification using CNN")
 elif n==75:
-  print("")
+  print("Traffic signs Recognition using CNN and Keras in Python")
 elif n==76:
   print("")
 elif n==77:
-  print("")
+  print("Lung CAncer Detection using CNN")
 elif n==78:
-  print("")
+  print("Lung Cancer Detection using Transfer Learning")
 elif n==79:
-  print("")
+  print("Black and White image Colorization with OpenCV and Deep Learning")
 elif n==80:
-  print("")
+  print("Pneumonia Detection using Deep Learning")
 elif n==81:
-  print("")
+  print("Detecting Covid with Chest X-ray")
 elif n==82:
-  print("")
+  print("Next Sentence Prediction using BERT")
 elif n==83:
-  print("")
+  print("Hate Speech Detection using Deep Learning")
 elif n==84:
   print("")
 elif n==85:
-  print("")
+  print("Skin cancer Detection using Tensorflow")
 elif n==86:
-  print("")
+  print("Human Activity REcognition")
 elif n==87:
-  print("")
+  print("Ai-Driven Snake Game")
 elif n==88:
-  print("")
+  print("Age detection using Deep learning")
 elif n==89:
-  print("")
+  print("Face and Hand Landmarks detection")
 elif n==90:
   print("")
 elif n==91:
-  print("")
+  print("Fine Tying the BERT model for sentiment analysis")
 elif n==92:
-  print("")
+  print("Image Segmentation")
 elif n==93:
-  print("")
+  print("Sentiment Classification")
 elif n==94:
   print("")
 elif n==95:
   print("")
 elif n==96:
-  print("")
+  print("Auto correct Freature using NLP")
 elif n==97:
   print("")
 elif n==98:
-  print("")
+  print("Detect and Recognition with OpenCV  and Tesseract OCR")
 elif n==99:
-  print("")
+  print("Heart Disease Prediction using ANN")
 elif n==100:
   print("")
 else:
