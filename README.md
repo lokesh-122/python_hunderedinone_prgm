@@ -1,12 +1,15 @@
 # python_hunderedinone_prgm
-Program which includes one hundred different programs in it.
-This program code is built using python programming language.
-In this program we wbulit hundered sub-functions and one main function.
-Problems faced while writing this program are: 
-->Declaration of local variables and Global variables.
-->Functions handling.
-->importing modules
-->this porgram tells the 100 important basic programs in python
+This program is designed to include a collection of 100 different Python programs, all integrated into a single structure. It has been developed using the Python programming language, with 100 sub-functions and one main function to manage them effectively.
+
+Key Features:
+The program provides solutions to 100 essential Python programming concepts.
+Each sub-function handles a specific task, while the main function coordinates their execution.
+Challenges Faced:
+Managing the declaration and scope of local and global variables.
+Handling and organizing multiple functions.
+Efficiently importing and using external modules.
+This program is a comprehensive guide to fundamental Python programming concepts, making it a valuable resource for beginners and developers looking to strengthen their basics.
+
 This program includes
 #Program to Number guessing game.
 #Program to group anagrams.
